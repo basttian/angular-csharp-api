@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Ll6l3c9Zm9l85bjJpq3XLezfPt1Yw3+27AK+V4l8j2dknjndeq0Y73V0KFJuJoc/7pyZmDRwLkOU+6AWLStQQ==",
+  "dgSpecHash": "zYkl+nHGfuutYlBBCS0YDKsu/5tfX21BpP72eeBVURR9QkX/bduLOu2MBQAxFzYafY9hI5/XIdy2TFlZe6/0mA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sebastian\\Desktop\\Nueva carpeta\\app-mysql.csproj",
+  "projectFilePath": "C:\\Users\\Sebastian\\Desktop\\angular-csharp-api\\app-mysql.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sebastian\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\Sebastian\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
